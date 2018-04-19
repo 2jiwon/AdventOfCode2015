@@ -6,4 +6,3 @@ Also, a part of this is for a [Coding Challenge #4 to Zero-To-Mastery](https://w
 ---
 Day  1. [Not Quite Lisp](./day01.md) \
 Day  2. [I Was Told There Would Be No Math](./day02.md) \
-
